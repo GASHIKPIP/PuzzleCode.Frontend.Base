@@ -1,0 +1,29 @@
+h1, p {
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.title {
+    color: white;
+    padding-top: 400px;
+    font-size: 70px;
+}
+
+.main {
+    max-width: 1920px;
+    margin: auto;
+    background-image: url(BG.jpg);
+    background-position: top;
+    background-size: cover;
+    height: 1000px;
+}
+
+button {
+    border: solid 2px white;
+    margin-left: 780px;
+}
