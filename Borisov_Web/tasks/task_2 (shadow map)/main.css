@@ -24,6 +24,25 @@ p {
 }
 
 button {
+    font-size: 15px;
+    padding: 15px;
     border: solid 2px white;
-    margin-left: 780px;
+    background-color: transparent;
+    color: white;
+}
+
+.what {
+    text-align: left;
+    tab-size: 35px;
+    color: white;
+}
+
+.sec_what {
+    background-color: black;
+}
+
+.wwhat {
+    color: white;
+    text-align: left;
+    tab-size: 2px;
 }
